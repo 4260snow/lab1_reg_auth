@@ -43,25 +43,26 @@
     | PASSWORD_EXP_DATE| Дата истечения пароля                 |
 
 ## Алгоритмы
-    * Регистрирация (reg.php)
+
+ * Регистрирация (reg.php)
  
     ![](https://github.com/4260snow/lab1_reg_auth/blob/main/reg_bd.drawio.png)
   
-    * Вход в аккаунт (login.php)
+ * Вход в аккаунт (login.php)
   
     ![](https://github.com/4260snow/lab1_reg_auth/blob/main/login_bd.drawio.png)
   
-    * Выход из аккаунта (exit.php)
+ * Выход из аккаунта (exit.php)
   
     ![](https://github.com/4260snow/lab1_reg_auth/blob/main/logout_bd.drawio.png)
   
-    * Смена пароля, если он забыт (forgot_password.php)
+ * Смена пароля, если он забыт (forgot_password.php)
   
     ![](https://github.com/4260snow/lab1_reg_auth/blob/main/forgot_pwd_bd.drawio.png)
   
-    * Новый пароль (изменение старого пароля) (change_password.php)
-  
-    ![](https://github.com/4260snow/lab1_reg_auth/blob/main/cng_pwd_bd.drawio.png)
+ * Новый пароль (изменение старого пароля) (change_password.php)
+ 
+ ![](https://github.com/4260snow/lab1_reg_auth/blob/main/cng_pwd_bd.drawio.png)
 
 ### Вывод
 Спроектирована и разработана система авторизации пользователей на протоколе HTTP
