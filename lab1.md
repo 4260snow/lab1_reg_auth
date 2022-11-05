@@ -43,7 +43,6 @@
     | PASSWORD_EXP_DATE| Дата истечения пароля                 |
 
 ## Алгоритмы
-
     * Регистрирация (reg.php)
  
     ![](https://github.com/4260snow/lab1_reg_auth/blob/main/reg_bd.drawio.png)
