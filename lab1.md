@@ -4,12 +4,12 @@
 ## Ход работы
 * Разработаем пользовательский интерфейс и опишем пользовательские сценарии работы
 
-![Рис. 1 - Интерфейс](https://github.com/)
-
+![Рис. 1 - Интерфейс](https://github.com/4260snow/lab1_reg_auth/blob/main/ui.drawio.png)
 
 * Описание clien-server
+    * Правильная регистрация
 
-![Рис. 2 - client-server](https://github.com/)
+        ![Рис. 2 - client-server](https://github.com/4260snow/lab1_reg_auth/blob/main/std_reg.png)
 
 * Структура базы данных (json)
 
@@ -21,23 +21,23 @@
 
 * Алгоритмы
 
-    * Регистрируем пользователя (reg.php)
+    * Регистрирация (reg.php)
  
-    ![](https://github.com/4260snow/lab1_reg_auth/blob/main/ui.drawio.png)
+    ![](https://github.com/4260snow/lab1_reg_auth/blob/main/reg_bd.drawio.png)
   
-    * Входим в аккаунт (login.php)
+    * Вход в аккаунт (login.php)
   
-    ![](https://github.com/)
+    ![](https://github.com/4260snow/lab1_reg_auth/blob/main/login_bd.drawio.png)
   
-    * Выходим из аккаунта (exit.php ДОБАВИТЬ ВЫХОД c удалением куки)
+    * Выход из аккаунта (exit.php ДОБАВИТЬ ВЫХОД c удалением куки)
   
-    ![]()
+    ![](https://github.com/4260snow/lab1_reg_auth/blob/main/logout_bd.drawio.png)
   
-    * Меняем пароль, если мы его забыли (forgot_password.php сообщение, что пользователя не существует)
+    * Смена пароля, если он забыт (forgot_password.php сообщение, что пользователя не существует)
   
-    ![]()
+    ![](https://github.com/4260snow/lab1_reg_auth/blob/main/forgot_pwd_bd.drawio.png)
   
-    * Меняем пароль, если мы вошли в аккаунт и захотели его сменить (change_password.php)
+    * Новый пароль (изменение старого пароля) (change_password.php)
   
-    ![]()
+    ![](https://github.com/4260snow/lab1_reg_auth/blob/main/cng_pwd_bd.drawio.png)
 
