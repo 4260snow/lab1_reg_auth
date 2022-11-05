@@ -31,8 +31,7 @@
 
 ## Описание clien-server
 * Регистрация
-
-        ![Рис. 2 - client-server](https://github.com/4260snow/lab1_reg_auth/blob/main/std_reg.png)
+![Рис. 2 - client-server](https://github.com/4260snow/lab1_reg_auth/blob/main/std_reg.png)
 
 ## Структура базы данных (json)
 
